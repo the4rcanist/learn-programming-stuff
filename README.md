@@ -8,41 +8,55 @@ Some of it (a lot of things really) are in Brazilian Portuguese and some are in 
 credits to: awesome-lists
 
 Theory/My Basic stuff
+<br>
 Programming Logic
-Videos
-Articles
-Courses
-Resources
+<br>
 Algorithms
-GitHub - gaerae/awesome-algorithms-education: A curated list to learning and practicing about…
-An algorithm is a list of rules to follow in order to solve a problem. Algorithms need to have their steps in the right…
-github.com
-
-GitHub - tayllan/awesome-algorithms: A curated list of awesome places to learn and/or practice…
-A curated list of awesome places to learn and/or practice algorithms. Inspired by awesome-awesomeness and all the other…
-github.com
-
+<br>
 Java
+<br>
 Object Oriented Programming
+<br>
 Javascript
+<br>
 Web Development
+<br>
 Computer Science
+<br>
 Programming Languages
+<br>
 Editors
+<br>
 Development Environment
+<br>
 Front-End Development
+<br>
 Back-End Development
+<br>
 Testing
+<br>
 Databases
+<br>
 Platforms
+<br>
 Big Data
+<br>
 Books
+<br>
 Gaming
+<br>
 Learn
+<br>
 Security
+<br>
 Hardware
+<br>
 Networking
+<br>
 Decentralized Systems
+<br>
 Higher Education
+<br>
 Miscellaneous
+<br>
 
