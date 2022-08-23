@@ -7,9 +7,12 @@ Some of it (a lot of things really) are in Brazilian Portuguese and some are in 
 
 credits to: awesome-lists
 
-Theory/My Basic stuff
+#Theory/My Basic stuff
 <br>
-Programming Logic
+##Programming Logic
+<br>
+<a href="https://www.linkedin.com/learning/topics/fundamentos-de-programacao">Fundamentos de Programação</a>
+<br>
 <br>
 Algorithms
 <br>
